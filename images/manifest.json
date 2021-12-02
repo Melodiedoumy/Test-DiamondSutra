@@ -1,0 +1,66 @@
+{
+  "id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Melodiedoumy/Test-DiamondSutra project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1791,
+    "id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/images/ImageIDPP.2fronstispiece/canvas/",
+    "label" : {
+      "none" : [ "ImageIDPP.2fronstispiece" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/images/ImageIDPP.2fronstispiece/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/images/ImageIDPP.2fronstispiece/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 56,
+              "height" : 51
+            }, {
+              "width" : 112,
+              "height" : 102
+            }, {
+              "width" : 224,
+              "height" : 204
+            }, {
+              "width" : 448,
+              "height" : 407
+            }, {
+              "width" : 896,
+              "height" : 814
+            }, {
+              "width" : 1791,
+              "height" : 1628
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1791,
+            "@id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/images/ImageIDPP.2fronstispiece",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1628
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1791,
+          "id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/images/ImageIDPP.2fronstispiece/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1628
+        },
+        "target" : "https://Melodiedoumy.github.io/Test-DiamondSutra/images/ImageIDPP.2fronstispiece/canvas/"
+      } ]
+    } ],
+    "height" : 1628
+  } ]
+}

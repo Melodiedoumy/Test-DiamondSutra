@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 38,
+    "height" : 51
+  }, {
+    "width" : 76,
+    "height" : 102
+  }, {
+    "width" : 151,
+    "height" : 204
+  }, {
+    "width" : 302,
+    "height" : 407
+  }, {
+    "width" : 604,
+    "height" : 814
+  }, {
+    "width" : 1208,
+    "height" : 1628
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1208,
+  "@id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/images/ImageIDPP.2lastpanel",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1628
+}

@@ -1,0 +1,113 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "金剛般若波儸蜜多經",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>金剛般若波儸蜜多經</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/95387130",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2021-12-02T23:45:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638488704405",
+    "dcterms:modified" : "2021-12-02T23:45:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/manifests/Diamondsutramanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=634,168,142,627"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M633.60634,167.63186h70.87124v0h70.87124v313.47973v313.47973h-70.87124h-70.87124v-313.47973z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_01b70989-fdd2-4c57-acee-f7061378c424\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1b0018ca-1b8a-46de-9ee2-9a49ef4f7c35"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "colophon",
+      "@type" : "oa:Tag",
+      "chars" : "colophon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "城通九年四月十三日王玠寫 Chengtong jiu nian si yue shi san ri Wangjie xie",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>城通九年四月十三日王玠寫 Chengtong jiu nian si yue shi san ri Wangjie xie</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/95387130",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2021-12-03T00:10:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638490236051",
+    "dcterms:modified" : "2021-12-03T00:10:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/manifests/Diamondsutramanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=199,311,177,705"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M198.85193,311.25608h88.33906v0h88.33906v352.29709v352.29709h-88.33906h-88.33906v-352.29709z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4e64629d-3b89-4add-b0a9-7e8aabb50e5e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1b0018ca-1b8a-46de-9ee2-9a49ef4f7c35"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "真言 mantra",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>真言 mantra</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mantra",
+      "@type" : "oa:Tag",
+      "chars" : "mantra"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/95387130",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2021-12-02T23:45:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1638488741642",
+    "dcterms:modified" : "2021-12-02T23:55:09",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/manifests/Diamondsutramanifest.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=579,323,84,235"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M579.26204,322.90129h41.75823v0h41.75823v117.45207v117.45207h-41.75823h-41.75823v-117.45207z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_fc086c2e-ef4b-48fc-947b-1ce09aecbeeb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1b0018ca-1b8a-46de-9ee2-9a49ef4f7c35"
+    } ]
+  } ],
+  "@id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/annotations/1c6dd8fe6258345a5367bce096b0d0cf.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

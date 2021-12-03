@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Melodiedoumy.github.io/Test-DiamondSutra/annotations/1c6dd8fe6258345a5367bce096b0d0cf.json" ],
+  "@id" : "https://Melodiedoumy.github.io/Test-DiamondSutra/annotations/collection.json",
+  "label" : "All annotations loaded in Melodiedoumy/Test-DiamondSutra project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
